@@ -1,1 +1,25 @@
-A starter template to create a bitcoin crowd funding website.
+Starter template for bitcoin crowd funding website.
+
+To see an example: 
+http://eugenelin89-bitstarter-mooc.herokuapp.com/
+
+The template utilizes Twitter Bootstrap Framework v2.3.2 (http://getbootstrap.com/2.3.2/) to implement responsive design (http://en.wikipedia.org/wiki/Responsive_web_design).
+
+The template is intended to be extended using Server Side Java Script with Node.js (http://nodejs.org/)
+
+The template uses the service of Coinbase (https://coinbase.com/) for collecting bitcoins 
+
+SETUP
+
+1. Install Node.js
+2. Clone this project in your local file system.
+3. Install express by running the following command in the directory where this project is cloned:
+npm install express
+4. Start the project by running:
+node web.js
+
+By default, the server litens to port 8080.
+
+
+
+
